@@ -36,5 +36,8 @@ The project yielded several important findings:
 (4) Cardiovascular disease remains a major health challenge on a global scale, especially in Asia, where the growth rate of deaths is of concern. In Europe and the Americas, although the growth rate of cardiovascular disease deaths is relatively slow, it does not mean that it can be ignored.  
 (5) The increasing trend of deaths from non-communicable diseases worldwide suggests the need to strengthen public health interventions to prevent and control the development of these diseases.  
 
+## Visualization results
+!(/path/to/image.jpg)
+
 ## Acknowledgments  
 This study was supervised by Ruilin Tian. The authors would like to thank Dongyang Jin.
