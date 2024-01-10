@@ -13,6 +13,7 @@ We mainly investigated the epidemic trends between different regions from 1990 t
 Dependencies
 
 pandas 
+
 numpy 
 math 
 sklearn.cluster.KMeans 
