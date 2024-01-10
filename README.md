@@ -2,7 +2,7 @@
 
 ## WELCOME!
 
-This repository contains the final project of Group 2 for the MED5018 course at the Southern University of Science and Technology. Our team members are Xinying Wang, Jiaying Hu, Tingting Shen and Guangmei Yang.  
+This repository contains the final project of Group 2 for the MED5018 course in the Southern University of Science and Technology. Our team members are Xinying Wang, Jiaying Hu, Tingting Shen and Guangmei Yang.  
 
 ### The members are divided as follows：  
 Jiaying Hu：Linear regression analysis for data & Latex compiling for FINAL REPORT & GitHub repository built up and maintaining  
