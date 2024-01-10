@@ -37,7 +37,17 @@ The project yielded several important findings:
 (5) The increasing trend of deaths from non-communicable diseases worldwide suggests the need to strengthen public health interventions to prevent and control the development of these diseases.  
 
 ## Visualization results
-!(/path/to/image.jpg)
+![示例图片](Results/Figure1-A. pcaresults.png)
+![示例图片](Results/Figure1-B. Scatter Plot of PCA Results.png)
+![示例图片](Results/Figure1-C. Scatter Plot with Clusters After PCA.png)
+![示例图片](Results/Figure1-D. Elbow method for optimal k.png)
+![示例图片](Results/Figure1-E. k-means results.png)
+![示例图片](Results/Figure2-A. Top 1 Disease Death Over Time by five Countries.png)
+![示例图片](Results/Figure2-B. TopDisease Death Over Time by four Countries.png)
+![示例图片](Results/Figure2-C. Top 3 Diseases Death Over Time in China.png)
+![示例图片](Results/Figure3-A. Linear Regression for the Highest Incidence Diseases in four Continents.png)
+![示例图片](Results/Figure3-B. Linear Regression for the Highest Incidence Diseases in three Continents.png)
+![示例图片](Results/Figure3-C. Global Deaths Over Time for Top Diseases.png)
 
 ## Acknowledgments  
 This study was supervised by Ruilin Tian. The authors would like to thank Dongyang Jin.
