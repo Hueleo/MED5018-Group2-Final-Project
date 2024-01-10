@@ -7,7 +7,7 @@ This repository contains the final project of Group 2 for the MED5018 course at 
 
 ## Project Overview
 
-We mainly investigated the epidemic trends between different regions from 1990 to 2019. The results of this study will help us better understand how epidemiological transitions have developed in different regions of the world, how regional differences exist. The team used K-Means clustering, principal component analysis and liner regression analysis to analyze data. Our title is "Association between resource inequality and causes of death in 204 countries and regions from 1990 to 2019".
+We mainly investigated the epidemic trends between different regions from 1990 to 2019. The results of our study will help us better understand how epidemiological transitions have developed in different regions of the world, how regional differences exist. Our team used K-Means clustering, principal component analysis and liner regression analysis to analyze data.  Our title is "Association between resource inequality and causes of death in 204 countries and regions from 1990 to 2019".
 
 
 ## Dependencies
