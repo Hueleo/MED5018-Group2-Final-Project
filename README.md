@@ -12,18 +12,18 @@ We mainly investigated the epidemic trends between different regions from 1990 t
 
 Dependencies
 
-pandas
-numpy
-math
-sklearn.cluster.KMeans
-sklearn.decomposition.PCA
-statsmodels.api
-matplotlib
+pandas 
+numpy 
+math 
+sklearn.cluster.KMeans 
+sklearn.decomposition.PCA 
+statsmodels.api 
+matplotlib 
+
+
 Key foundings
 
-
 The project yielded several important findings:
-
 204 regions can be divided into three categories based on different causes of death
 The first category should be countries with small land area and population, and moderate development level. The second category should be countries with large land area and population, and relatively backward development level. The third category should be countries with large land area and population, and high development level.
 Cardiovascular diseases have the highest mortality rate in most countries
