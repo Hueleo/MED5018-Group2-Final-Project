@@ -15,10 +15,15 @@ Dependencies
 pandas 
 
 numpy 
+
 math 
+
 sklearn.cluster.KMeans 
+
 sklearn.decomposition.PCA 
+
 statsmodels.api 
+
 matplotlib 
 
 
