@@ -1,12 +1,10 @@
 # MED5018_Group2-Final-Project
 
-MED5018_Group2
-Association between resource inequality and causes of death in 204 countries and regions from 1990 to 2019
-
-This repository contains the final project of Group 2 for the MED5018 course at the Southern University of Science and Technology. The team members are Xinying Wang, Jiaying Hu, Tingting Shen and Guangmei Yang .
+WELCOME!
+This repository contains the final project of Group 2 for the MED5018 course at the Southern University of Science and Technology. Our team members are Xinying Wang, Jiaying Hu, Tingting Shen and Guangmei Yang .
 
 Project Overview
-We mainly investigated the epidemic trends between different regions from 1990 to 2019. The results of this study will help us better understand how epidemiological transitions have developed in different regions of the world, how regional differences exist. The team used K-Means clustering, principal component analysis and liner regression analysis to analyze data.
+We mainly investigated the epidemic trends between different regions from 1990 to 2019. The results of this study will help us better understand how epidemiological transitions have developed in different regions of the world, how regional differences exist. The team used K-Means clustering, principal component analysis and liner regression analysis to analyze data. Our title is "Association between resource inequality and causes of death in 204 countries and regions from 1990 to 2019".
 
 Dependencies
 pandas
