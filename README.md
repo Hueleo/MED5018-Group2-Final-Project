@@ -45,7 +45,7 @@ The project yielded several important findings:
 ![示例图片](Results/Figure2-A.Top-1-Disease-Death-Over-Time-by-five-Countries.png)
 ![示例图片](Results/Figure2-B.TopDisease-Death-Over-Time-by-four-Countries.png)
 ![示例图片](Results/Figure2-C.Top-3-Diseases-Death-Over-Time-in-China.png)
-![示例图片](Results/Figure3-A.Linear-Regression-for-th-Highest-Incidence-Diseases-in-four-Continents.png)
+![示例图片](Results/Figure3-A.Linear-Regression-for-the-Highest-Incidence-Diseases-in-four-Continents.png)
 ![示例图片](Results/Figure3-B.Linear-Regression-for-the-Highest-Incidence-Diseases-in-three-Continents.png)
 ![示例图片](Results/Figure3-C.Global-Deaths-Over-Time-for-Top-Diseases.png)
 
