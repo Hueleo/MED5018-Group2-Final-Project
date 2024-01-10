@@ -9,6 +9,7 @@ Project Overview
 
 We mainly investigated the epidemic trends between different regions from 1990 to 2019. The results of this study will help us better understand how epidemiological transitions have developed in different regions of the world, how regional differences exist. The team used K-Means clustering, principal component analysis and liner regression analysis to analyze data. Our title is "Association between resource inequality and causes of death in 204 countries and regions from 1990 to 2019".
 
+
 Dependencies
 
 pandas
@@ -19,6 +20,7 @@ sklearn.decomposition.PCA
 statsmodels.api
 matplotlib
 Key foundings
+
 
 The project yielded several important findings:
 
